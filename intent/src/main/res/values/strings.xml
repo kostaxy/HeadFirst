@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="message_hint">Type your message here</string>
+    <string name="send_message_activity">Send message to new activity!</string>
+    <string name="send_message_all">Send message to another app!</string>
+    <string name="something_wrong">Oooops! Something wrong!) FIX ME PLEASE :D</string>
+</resources>
