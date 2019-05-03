@@ -9,6 +9,8 @@ import android.widget.EditText;
 public class SendActivity extends AppCompatActivity {
 
     private EditText messageEditText;
+
+    private String bannk = "Alfabank";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
